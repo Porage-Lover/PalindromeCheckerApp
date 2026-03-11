@@ -1,2 +1,2 @@
 # PalindromeCheckerApp
-STEP Assignment #1
+STEP Application #1
